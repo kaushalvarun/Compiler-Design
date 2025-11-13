@@ -1,3 +1,11 @@
-.exe
-.DS_STORE
-.vscode
+# ignore all exe binaries anywhere
+*.exe
+
+# macOS metadata
+.DS_Store
+
+# VS Code settings folder
+.vscode/
+
+# generated lexer C file
+lex.yy.c

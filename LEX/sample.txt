@@ -1,8 +1,0 @@
-Hello world!
-This program counts how many times a word appears.
-
-Hello again — this is a simple test file.
-HELLO should also count if we use the -i option.
-
-hello, hello, and one more hello!
-Goodbye world.
